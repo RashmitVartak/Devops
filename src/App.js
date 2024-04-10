@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
-          HELLO EVERYONE! I'm performing DevOps exp5.
+          HELLO EVERYONE! 
         </p>
         {/* <a
           className="App-link"
